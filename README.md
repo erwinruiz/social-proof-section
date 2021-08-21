@@ -21,6 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
+![](./screenshots/desktop-design.png)
 ![](./screenshots/mobile-design.png)
 
 ### Links
@@ -35,3 +36,8 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
