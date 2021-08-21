@@ -99,6 +99,9 @@ section .user-feedback p {
 
 @media (min-width: 1220px) {
   body {
+    background-image: url("./images/bg-pattern-top-desktop.svg"),
+      url("./images/bg-pattern-bottom-desktop.svg");
+    background-position: left 0vw top -8vh, left 25vw bottom 0vh;
     margin: 0;
     justify-content: center;
   }
@@ -160,7 +163,6 @@ section .user-feedback p {
   section .ratings .last {
     margin-bottom: 0;
   }
-
   section .bottom {
     height: 100%;
   }
